@@ -4,3 +4,8 @@ The motion picture industry is a multibillion-dollar business. In 2018, the worl
 
 ##### KEY WORDS: Movie Investments, Predictive Analytics, Text Mining, Gradient Boost, XGBoost, CatBoost, Scikit-Learn, Keras 
 ##### OBJECTIVE: Predict worldwide box office revenue over 7,000 past films from The Movie Database (TMDB).
+
+
+
+
+#### Note: If you have trouble viewing my jupyter notebook scripts here, this is due to the render bug on github. You can copy and paste the URL from Github to http://nbviewer.jupyter.org/ to check on the code.
